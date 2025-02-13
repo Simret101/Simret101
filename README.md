@@ -6,11 +6,9 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning Laravel, Django, Microservices.</p>
+<h2 align="left">💋 How to reach me</h2>
+<p align="left">💌 Email: <a href="mailto:semretb74@gmail.com">semretb74@gmail.com</a></p>
+<p align="left">📝 I regularly write articles on <a href="https://medium.com/@semretb74">Medium</a></p>
 
 ###
 
@@ -51,4 +49,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Simret101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+

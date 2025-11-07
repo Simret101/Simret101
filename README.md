@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Simret Belete and I'm a Full-Stack Developer from Ethiopia.</p>
+<p align="left">My name is Simret Belete and I'm a Backend Developer from Ethiopia.</p>
 
 ###
 
